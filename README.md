@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martin Reale</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **espulito@gmail.com**
 
